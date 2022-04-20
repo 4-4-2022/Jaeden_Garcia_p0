@@ -1,0 +1,127 @@
+17:25:04:062 [main] INFO  com.revature.repo.PetRepo - A new linked account with the username: firsttry, was created.
+17:31:57:185 [main] INFO  com.revature.repo.PetRepo - A new main account with the username: firstuser, was created.
+17:43:44:126 [main] INFO  com.revature.repo.PetRepo - A new main account with the username: poopa, was created.
+17:48:58:924 [main] INFO  com.revature.repo.PetRepo - A new main account with the username: poppy, was created.
+17:53:18:742 [main] INFO  com.revature.repo.PetRepo - A new linked account with the username: user2new, was created.
+18:08:30:650 [main] INFO  com.revature.repo.PetRepo - A new main account with the username: testuser, was created.
+18:09:56:804 [main] INFO  com.revature.repo.PetRepo - A new linked account with the username: secondpoppy, was created.
+18:18:31:172 [main] INFO  com.revature.repo.PetRepo - A new linked account with the username: fourthuser4, was created.
+18:27:38:673 [main] INFO  com.revature.repo.PetRepo - A new linked account with the username: secondtestuser, was created.
+19:30:55:030 [main] INFO  com.revature.client.AppUI - Linked account with ID: 2 and username: user2 logged in.
+19:37:22:578 [main] INFO  com.revature.client.AppUI - Linked account with ID: 2 and username: seconduser2 logged in.
+19:58:49:665 [main] INFO  com.revature.client.AppUI - Employee account with ID: 1 and username: jaedmin logged in.
+01:21:30:396 [main] INFO  com.revature.client.AppUI - Main account with ID: 4 and username: user4 logged in.
+01:27:35:614 [main] INFO  com.revature.client.AppUI - Main account with ID: 4 and username: user4 logged in.
+01:28:11:511 [main] INFO  com.revature.repo.PetRepo - An exeption did not allow accout (ID:4, Username:user4) to be updated
+01:28:11:511 [main] INFO  com.revature.repo.PetRepo - Accout (ID:4, Username:user4) was successfully updated
+01:28:11:512 [main] INFO  com.revature.client.AppUI - $100.0 funds were added
+01:30:18:499 [main] INFO  com.revature.client.CustomerUI - (ID:4, Username:user4) logged off.
+01:40:11:285 [main] INFO  com.revature.client.AppUI - Main account with ID: 4 and username: user4 logged in.
+01:40:35:459 [main] INFO  com.revature.repo.PetRepo - An exeption did not allow accout (ID:4, Username:user4) to be updated
+01:40:35:460 [main] INFO  com.revature.repo.PetRepo - Accout (ID:4, Username:user4) was successfully updated
+01:40:35:460 [main] INFO  com.revature.client.AppUI - $100.0 funds were added
+01:43:17:030 [main] INFO  com.revature.client.AppUI - Main account with ID: 4 and username: user4 logged in.
+01:43:47:548 [main] INFO  com.revature.repo.PetRepo - Accout (ID:4, Username:user4) was successfully updated
+01:43:47:548 [main] INFO  com.revature.client.AppUI - $100.0 funds were added
+01:45:33:370 [main] INFO  com.revature.repo.PetRepo - Accout (ID:4, Username:user4) was successfully updated
+01:45:33:370 [main] INFO  com.revature.client.AppUI - $30.0 funds were removed
+01:50:38:306 [main] INFO  com.revature.client.AppUI - Main account with ID: 4 and username: user4 logged in.
+01:51:07:535 [main] INFO  com.revature.repo.PetRepo - Accout (ID:4, Username:user4) was successfully updated
+01:51:07:535 [main] INFO  com.revature.client.AppUI - $20.0 funds were added
+01:52:22:868 [main] INFO  com.revature.repo.PetRepo - Accout (ID:4, Username:user4) was successfully updated
+01:52:22:868 [main] INFO  com.revature.client.AppUI - $10.0 funds were removed
+01:52:23:360 [main] INFO  com.revature.repo.PetRepo - An exeption did not allow accout (ID:4, Username:seconduser4) to be updated
+01:52:23:361 [main] INFO  com.revature.repo.PetRepo - Accout (ID:4, Username:seconduser4) was successfully updated
+01:52:23:361 [main] INFO  com.revature.client.AppUI - $10.0 funds were added
+02:01:17:586 [main] INFO  com.revature.client.AppUI - Main account with ID: 4 and username: user4 logged in.
+02:01:47:817 [main] INFO  com.revature.repo.PetRepo - Accout (ID:4, Username:user4) was successfully updated
+02:01:47:817 [main] INFO  com.revature.client.AppUI - $10.0 funds were removed
+02:01:48:289 [main] INFO  com.revature.repo.PetRepo - Accout (ID:4, Username:seconduser4) was successfully updated
+02:01:48:290 [main] INFO  com.revature.client.AppUI - $10.0 funds were added
+02:06:09:225 [main] INFO  com.revature.client.AppUI - Main account with ID: 4 and username: user4 logged in.
+02:06:51:233 [main] INFO  com.revature.repo.PetRepo - Accout (ID:4, Username:user4) was successfully updated
+02:06:51:233 [main] INFO  com.revature.client.AppUI - $10.0 funds were removed
+02:06:51:730 [main] INFO  com.revature.repo.PetRepo - An exeption did not allow accout (ID:4, Username:seconduser4) to be updated
+02:06:51:730 [main] INFO  com.revature.repo.PetRepo - Accout (ID:4, Username:seconduser4) was successfully updated
+02:06:51:730 [main] INFO  com.revature.client.AppUI - $10.0 funds were added
+02:09:32:260 [main] INFO  com.revature.client.AppUI - Main account with ID: 4 and username: user4 logged in.
+02:10:06:701 [main] INFO  com.revature.repo.PetRepo - Accout (ID:4, Username:user4) was successfully updated
+02:10:06:701 [main] INFO  com.revature.client.AppUI - $10.0 funds were removed
+02:10:07:166 [main] INFO  com.revature.repo.PetRepo - An exeption did not allow accout (ID:4, Username:seconduser4) to be updated
+02:10:07:166 [main] INFO  com.revature.repo.PetRepo - Accout (ID:4, Username:seconduser4) was successfully updated
+02:10:07:166 [main] INFO  com.revature.client.AppUI - $10.0 funds were added
+02:12:22:899 [main] INFO  com.revature.client.AppUI - Linked account with ID: 4 and username: seconduser4 logged in.
+02:12:41:999 [main] INFO  com.revature.repo.PetRepo - An exeption did not allow accout (ID:4, Username:seconduser4) to be updated
+02:12:41:999 [main] INFO  com.revature.repo.PetRepo - Accout (ID:4, Username:seconduser4) was successfully updated
+02:12:41:999 [main] INFO  com.revature.client.AppUI - $10.0 funds were added
+02:17:40:166 [main] INFO  com.revature.client.AppUI - Linked account with ID: 4 and username: seconduser4 logged in.
+02:17:54:816 [main] INFO  com.revature.repo.PetRepo - An exeption did not allow accout (ID:4, Username:seconduser4) to be updated
+02:17:54:816 [main] INFO  com.revature.repo.PetRepo - Accout (ID:4, Username:seconduser4) was successfully updated
+02:17:54:816 [main] INFO  com.revature.client.AppUI - $10.0 funds were added
+02:22:36:423 [main] INFO  com.revature.client.AppUI - Linked account with ID: 4 and username: seconduser4 logged in.
+02:22:54:429 [main] INFO  com.revature.repo.PetRepo - An exeption did not allow accout (ID:4, Username:seconduser4) to be updated
+02:22:54:430 [main] INFO  com.revature.repo.PetRepo - Accout (ID:4, Username:seconduser4) was successfully updated
+02:22:54:430 [main] INFO  com.revature.client.AppUI - $10.0 funds were added
+02:24:38:287 [main] INFO  com.revature.client.AppUI - Linked account with ID: 4 and username: seconduser4 logged in.
+02:25:03:894 [main] INFO  com.revature.repo.PetRepo - Accout (ID:4, Username:seconduser4) was successfully updated
+02:25:03:894 [main] INFO  com.revature.client.AppUI - $10.0 funds were added
+02:25:28:888 [main] INFO  com.revature.repo.PetRepo - Accout (ID:4, Username:seconduser4) was successfully updated
+02:25:28:888 [main] INFO  com.revature.client.AppUI - $10.0 funds were removed
+02:25:29:359 [main] INFO  com.revature.repo.PetRepo - Accout (ID:4, Username:user4) was successfully updated
+02:25:29:359 [main] INFO  com.revature.client.AppUI - $10.0 funds were added
+02:26:22:046 [main] INFO  com.revature.repo.PetRepo - Accout (ID:4, Username:seconduser4) was successfully updated
+02:26:22:046 [main] INFO  com.revature.client.AppUI - $10.0 funds were removed
+02:26:22:506 [main] INFO  com.revature.repo.PetRepo - Accout (ID:4, Username:thirduser4) was successfully updated
+02:26:22:506 [main] INFO  com.revature.client.AppUI - $10.0 funds were added
+02:27:07:373 [main] INFO  com.revature.repo.PetRepo - Accout (ID:4, Username:seconduser4) was successfully updated
+02:27:07:373 [main] INFO  com.revature.client.AppUI - $8.0 funds were removed
+02:27:41:601 [main] INFO  com.revature.repo.PetRepo - Accout (ID:4, Username:seconduser4) was successfully updated
+02:27:41:602 [main] INFO  com.revature.client.AppUI - $30.0 funds were added
+02:27:42:070 [main] INFO  com.revature.repo.PetRepo - Accout (ID:4, Username:user4) was successfully updated
+02:27:42:070 [main] INFO  com.revature.client.AppUI - $30.0 funds were removed
+02:43:30:449 [main] INFO  com.revature.client.CustomerUI - (ID:4, Username:seconduser4) logged off.
+03:13:31:103 [main] INFO  com.revature.client.AppUI - Employee account with ID: 3 and username: jessmin logged in.
+03:18:31:464 [main] INFO  com.revature.client.AppUI - Employee account with ID: 3 and username: jessmin logged in.
+03:22:20:055 [main] INFO  com.revature.client.AppUI - Employee account with ID: 3 and username: jessmin logged in.
+03:25:20:511 [main] INFO  com.revature.client.AppUI - Employee account with ID: 1 and username: jaedmin logged in.
+03:45:51:103 [main] INFO  com.revature.client.AppUI - Employee account with ID: 1 and username: jaedmin logged in.
+03:46:36:585 [main] INFO  com.revature.repo.PetRepo - Accout (ID:7, Username:deletsr7) was successfully updated
+03:46:36:586 [main] INFO  com.revature.client.AppUI - $7.0 funds were added
+03:48:02:281 [main] INFO  com.revature.repo.PetRepo - Accout (ID:5, Username:poppy) was successfully updated
+03:48:02:282 [main] INFO  com.revature.client.AppUI - $5.0 funds were added
+03:49:10:146 [main] INFO  com.revature.client.AppUI - Employee account with ID: 1 and username: jaedmin logged in.
+03:50:24:784 [main] INFO  com.revature.repo.PetRepo - Accout (ID:5, Username:poppy) was successfully updated
+03:50:24:784 [main] INFO  com.revature.client.AppUI - $15.0 funds were added
+03:51:17:325 [main] INFO  com.revature.repo.PetRepo - Accout (ID:2, Username:seconduser2) was successfully updated
+03:51:17:325 [main] INFO  com.revature.client.AppUI - $5.0 funds were added
+03:55:24:205 [main] INFO  com.revature.client.AppUI - Employee account with ID: 1 and username: jaedmin logged in.
+03:57:07:458 [main] INFO  com.revature.repo.PetRepo - Accout (ID:7, Username:deluser7) was successfully updated
+03:57:07:458 [main] INFO  com.revature.client.AppUI - $12.0 funds were removed
+03:58:03:840 [main] INFO  com.revature.repo.PetRepo - Accout (ID:5, Username:poppy) was successfully updated
+03:58:03:840 [main] INFO  com.revature.client.AppUI - $7.0 funds were removed
+03:59:23:494 [main] INFO  com.revature.client.AppUI - Employee account with ID: 1 and username: jaedmin logged in.
+04:48:09:076 [main] INFO  com.revature.client.AppUI - Employee account with ID: 1 and username: jaedmin logged in.
+04:51:11:246 [main] INFO  com.revature.repo.PetRepo - Accout (ID:5, Username:sloppy) was successfully updated (old username was: poppy
+04:52:56:194 [main] INFO  com.revature.repo.PetRepo - An exeption did not allow accout (ID:7, Username:deletsr7) to be updated
+04:52:56:195 [main] INFO  com.revature.repo.PetRepo - Accout (ID:7, Username:deletsr7) was successfully updated
+04:55:39:873 [main] INFO  com.revature.client.AppUI - Employee account with ID: 1 and username: jaedmin logged in.
+04:56:15:359 [main] INFO  com.revature.repo.PetRepo - Accout (ID:5, Username:poppy) was successfully updated (old username was: sloppy
+04:56:54:718 [main] INFO  com.revature.repo.PetRepo - An exeption did not allow accout (ID:7, Username:deluser7) to be updated
+04:56:54:718 [main] INFO  com.revature.repo.PetRepo - Accout (ID:7, Username:deluser7) was successfully updated
+04:57:15:117 [main] INFO  com.revature.client.EmployeeUI - (ID:1, Username:jaedmin) logged off.
+05:01:26:168 [main] INFO  com.revature.client.AppUI - Employee account with ID: 1 and username: jaedmin logged in.
+05:02:10:818 [main] INFO  com.revature.repo.PetRepo - An exeption did not allow accout (ID:7, Username:duser7) to be deleted
+05:02:10:819 [main] INFO  com.revature.repo.PetRepo - Account (ID:7, Username:duser7) was successfully Deleted
+05:04:38:066 [main] INFO  com.revature.client.AppUI - Employee account with ID: 1 and username: jaedmin logged in.
+05:05:14:974 [main] INFO  com.revature.repo.PetRepo - Account (ID:7, Username:deletsr7) was successfully Deleted
+05:06:55:847 [main] INFO  com.revature.repo.PetRepo - Accout (ID:4, Username:user4) was successfully updated
+05:06:55:847 [main] INFO  com.revature.client.AppUI - $13.0 funds were removed
+05:07:33:061 [main] INFO  com.revature.repo.PetRepo - Account (ID:2, Username:user2) was successfully Deleted
+05:07:54:796 [main] INFO  com.revature.client.EmployeeUI - (ID:1, Username:jaedmin) logged off.
+05:58:50:070 [main] INFO  com.revature.repo.PetRepo - A new main account with the username: notheruser, was created.
+05:59:29:681 [main] INFO  com.revature.client.AppUI - Main account with ID: 8 and username: notheruser logged in.
+06:00:08:680 [main] INFO  com.revature.repo.PetRepo - Accout (ID:8, Username:notheruser) was successfully updated
+06:00:08:680 [main] INFO  com.revature.client.AppUI - $14.0 funds were added
+06:06:33:067 [main] INFO  com.revature.client.AppUI - Main account with ID: 8 and username: notheruser logged in.
+06:07:58:911 [main] INFO  com.revature.client.AppUI - Main account with ID: 8 and username: notheruser logged in.
+06:09:19:617 [main] INFO  com.revature.client.CustomerUI - (ID:8, Username:notheruser) logged off.
